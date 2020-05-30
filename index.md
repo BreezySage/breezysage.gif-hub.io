@@ -6,8 +6,9 @@
 
 ![red car](lamborghini-aventador-doors-open.jpg)
 You can use the [editor on GitHub](https://github.com/BreezySage/breezysage.gif-hub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+![car2](mclaren-p1-2014-high-definition-mclaren.jpg)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
